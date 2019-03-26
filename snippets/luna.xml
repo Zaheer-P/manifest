@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="luna"
+          fetch="https://github.com/lunaOS-ROM"
+          revision="pie" />
+
+</manifest>
+
+<!-- todo: add in things -->
+
